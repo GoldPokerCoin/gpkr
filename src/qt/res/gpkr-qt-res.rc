@@ -20,7 +20,7 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "Gpkr"
-            VALUE "FileDescription",    "Gold Poker Core (OSS GUI client for Gpkr)"
+            VALUE "FileDescription",    "Gold Poker Core"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "gpkr-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
